@@ -1,2 +1,2 @@
 Portfolio
- https://kennedy-musyoka.github.io/kennedy-musyoka/
+kennedy-musyoka.github.io/
